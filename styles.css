@@ -2,3 +2,12 @@
 body{
 	background-color:green;
 }
+
+.btn{
+	outline:none;
+	border:none;
+	border-radius:5px;
+	background-color:red;
+	padding:5px;
+	color:white;
+}
